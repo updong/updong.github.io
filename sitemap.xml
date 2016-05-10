@@ -7,18 +7,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://updong.net/</loc>
-  <lastmod>2016-05-10T19:53:00Z</lastmod>
+  <lastmod>2016-05-10T22:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://updong.net/archive.html</loc>
-  <lastmod>2016-05-10T19:56:00Z</lastmod>
+  <lastmod>2016-05-10T22:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://updong.net/categories/</loc>
-  <lastmod>2016-05-10T19:49:00Z</lastmod>
+  <lastmod>2016-05-10T22:39:00Z</lastmod>
  </url>
  <url>
-  <loc>http://updong.net/pages/about/</loc>
-  <lastmod>2016-05-10T19:53:00Z</lastmod>
+  <loc>http://updong.net/pages/about.html</loc>
+  <lastmod>2016-05-10T22:39:00Z</lastmod>
  </url>
 </urlset>
