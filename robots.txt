@@ -1,0 +1,4 @@
+Sitemap: http://updong.net/sitemapindex.xml
+
+User-Agent: *
+Host: updong.net
