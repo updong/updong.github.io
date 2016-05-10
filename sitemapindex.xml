@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://updong.net/galleries/rss.xml</loc>
-  <lastmod>2016-05-10T17:50:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://updong.net/rss.xml</loc>
-  <lastmod>2016-05-10T17:51:00Z</lastmod>
+  <lastmod>2016-05-10T19:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://updong.net/sitemap.xml</loc>
-  <lastmod>2016-05-10T17:51:00Z</lastmod>
+  <lastmod>2016-05-10T19:56:00Z</lastmod>
  </sitemap>
 </sitemapindex>
