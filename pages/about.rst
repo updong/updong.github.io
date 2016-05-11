@@ -12,9 +12,7 @@
 :Email:
 	updong@updong.net
 
-This is 
-
-``ls -al``
+:code:`a = b + c`
 
 .. code-block:: python
 
